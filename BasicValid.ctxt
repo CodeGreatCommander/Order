@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BasicValid
+comment1.params=b\ c
+comment1.target=java.lang.String\ day(java.lang.String,\ java.lang.String)
+comment2.params=a\ b
+comment2.target=int\ searcher(java.lang.String,\ java.lang.String[])
+numComments=3

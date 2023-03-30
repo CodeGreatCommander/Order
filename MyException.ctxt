@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyException
+comment1.params=st
+comment1.target=MyException(java.lang.String)
+comment2.params=st
+comment2.target=void\ daychecker(java.lang.String)
+numComments=3

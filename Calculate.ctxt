@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculate
+comment1.params=n
+comment1.target=Calculate(int)
+comment2.params=
+comment2.target=void\ billcal()
+comment3.params=
+comment3.target=void\ printer()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DataFiles
+comment1.params=
+comment1.target=void\ onedata()
+comment2.params=input
+comment2.target=void\ multipleData(boolean)
+comment3.params=
+comment3.target=int\ counter()
+numComments=4

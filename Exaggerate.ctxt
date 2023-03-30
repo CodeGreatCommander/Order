@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exaggerate
+comment1.params=n
+comment1.target=Exaggerate(int)
+comment2.params=
+comment2.target=void\ exag1()
+comment3.params=
+comment3.target=void\ mainDisplay()
+comment4.params=st
+comment4.target=void\ filterType(java.lang.String)
+comment5.params=n
+comment5.target=void\ resprinter(int)
+numComments=6
